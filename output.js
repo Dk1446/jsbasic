@@ -16,3 +16,6 @@ function multiply(){
     document.getElementById("answer").value= c;
 }
 
+function hello(){
+    alert("Hello World");
+}
